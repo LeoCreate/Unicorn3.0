@@ -1,0 +1,10 @@
+/* ----------------------------------
+Self-adaption Width CSS file for Discuz! X
+(C) Comsenz Inc.
+http://www.comsenz.com
+Created & Modified by Qing.
+---------------------------------- */
+
+.wp { margin:0 auto; width:1240px; }
+	#hd .wp, #wp { min-width: 1240px; }
+

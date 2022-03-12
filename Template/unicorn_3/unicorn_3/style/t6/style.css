@@ -1,0 +1,20 @@
+/*
+[name]默哀[/name]
+[iconbgcolor]template/unicorn_3/style/t1-bg.png[/iconbgcolor]
+Powered by Discuz! X
+*/
+
+body, .im-fullscreen {
+    background: url(background.jpg) top center no-repeat fixed #bfbfbc;
+}
+
+#ft,#ft a,#ft span,#ft p,#ft em,#ft .pipe{ color:#eee;}
+
+.animate-layer:before{
+	display:none;
+}
+
+.animate-layer:after{
+	display:none;
+}
+

@@ -1,0 +1,17 @@
+/*
+[name]经典蓝[/name]
+[iconbgcolor]template/unicorn_3/style/t2-bg.png[/iconbgcolor]
+Powered by Discuz! X
+*/
+
+body {
+    background: url(background.jpg) top center no-repeat fixed #355f85;
+}
+
+.animate-layer:before{
+	display:none;
+}
+
+.animate-layer:after{
+	display:none;
+}

@@ -1,0 +1,17 @@
+/*
+[name]原谅绿[/name]
+[iconbgcolor]template/unicorn_3/style/t0-bg.jpg[/iconbgcolor]
+Powered by Discuz! X
+*/
+
+body {
+    background: url(background.jpg) top center no-repeat fixed #253834;
+}
+
+.animate-layer:before{
+	display:none;
+}
+
+.animate-layer:after{
+	display:none;
+}

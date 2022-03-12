@@ -1,0 +1,17 @@
+/*
+[name]Moon_绿[/name]
+[iconbgcolor]template/unicorn_3/style/t1-bg.png[/iconbgcolor]
+Powered by Discuz! X
+*/
+
+body {
+    background: url(background.jpg) top center no-repeat fixed #35453c;
+}
+
+.animate-layer:before{
+	display:none;
+}
+
+.animate-layer:after{
+	display:none;
+}
